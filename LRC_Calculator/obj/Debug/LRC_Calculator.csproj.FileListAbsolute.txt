@@ -1,0 +1,11 @@
+C:\Users\qstech\source\repos\LRC_Calculator\LRC_Calculator\bin\Debug\LRC_Calculator.exe.config
+C:\Users\qstech\source\repos\LRC_Calculator\LRC_Calculator\bin\Debug\LRC_Calculator.exe
+C:\Users\qstech\source\repos\LRC_Calculator\LRC_Calculator\bin\Debug\LRC_Calculator.pdb
+C:\Users\qstech\source\repos\LRC_Calculator\LRC_Calculator\obj\Debug\LRC_Calculator.csproj.AssemblyReference.cache
+C:\Users\qstech\source\repos\LRC_Calculator\LRC_Calculator\obj\Debug\LRC_Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\qstech\source\repos\LRC_Calculator\LRC_Calculator\obj\Debug\LRC_Calculator.Main.resources
+C:\Users\qstech\source\repos\LRC_Calculator\LRC_Calculator\obj\Debug\LRC_Calculator.Properties.Resources.resources
+C:\Users\qstech\source\repos\LRC_Calculator\LRC_Calculator\obj\Debug\LRC_Calculator.csproj.GenerateResource.cache
+C:\Users\qstech\source\repos\LRC_Calculator\LRC_Calculator\obj\Debug\LRC_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\qstech\source\repos\LRC_Calculator\LRC_Calculator\obj\Debug\LRC_Calculator.exe
+C:\Users\qstech\source\repos\LRC_Calculator\LRC_Calculator\obj\Debug\LRC_Calculator.pdb
